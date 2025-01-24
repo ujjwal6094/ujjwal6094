@@ -2,7 +2,7 @@
 - 👀 I’m interested in make my first project
 - 🌱 I’m currently learning basic java
 - 💞️ I’m looking to collaborate on my project
-- 📫 How to reach me insta-@the_unmanifested_singer
+- 📫 How to reach me insta-@ujjwalverma02
 
 <!---
 ujjwal6094/ujjwal6094 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
